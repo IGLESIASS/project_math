@@ -1,5 +1,5 @@
 import service.Impl.SqlServiceImpl;
-import utils.SqlQueries;
+import util.SqlQueries;
 
 import java.sql.SQLException;
 

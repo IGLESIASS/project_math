@@ -1,7 +1,7 @@
 package service.Impl;
 
 import service.SqlService;
-import utils.Configs;
+import util.Configs;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
